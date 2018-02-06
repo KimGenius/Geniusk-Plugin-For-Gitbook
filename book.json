@@ -1,5 +1,5 @@
 {
-    "plugins": [ "theme-api" ],
+    "plugins": [ "theme-api", "gitbook-space-issue" ],
     "pluginsConfig": {
         "theme-api": {
             "languages": [
