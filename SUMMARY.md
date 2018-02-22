@@ -2,9 +2,8 @@
 
 ## Overview
 
-* [My Awesome API](README.md)
-* [test](test.md)
-* [test2](test2.md)
+* [README](README.md)
+* [path-params-codetabs](path-params-codetabs.md)
 
 
 ## Methods

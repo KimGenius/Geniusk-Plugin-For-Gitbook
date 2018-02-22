@@ -1,5 +1,5 @@
 {
-    "plugins": [ "theme-api", "gitbook-space-issue" ],
+    "plugins": [ "theme-api", "gitbook-space-issue", "path-params-codetabs" ],
     "pluginsConfig": {
         "theme-api": {
             "languages": [
