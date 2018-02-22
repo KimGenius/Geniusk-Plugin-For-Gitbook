@@ -1,5 +1,7 @@
 ### path-params-codetabs example
 
+I was inspired by the Google API.
+
 ##### codetabs
 {% codetabs name="URI", type="bash" -%}
 GET http://localhost/test?{param1}&{param2}&{param3}
